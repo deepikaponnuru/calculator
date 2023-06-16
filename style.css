@@ -1,0 +1,47 @@
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(12, 75, 123);
+    border-radius: 25px;
+    border: 2px solid rgb(0, 0, 0);
+    position: relative;
+    margin: auto;
+    margin-top: 10%;
+}
+.top{
+    margin-top: 15%;
+    margin-left: 15%;
+}
+.bot{
+    margin-top: 10%;
+    margin-left: 15%;
+}
+.bot input{
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+}
+#result{
+    width:fit-content;
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 52%;
+    background-color: rgb(7, 213, 244);
+    border: 1px solid black;
+}
+.bott{
+    margin-top: 18%;
+    margin-left: 15%;
+}
+.bot input{
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+}
+#es{
+    width:fit-content;
+    margin-top: -15%;
+    margin-left: 52%;
+    background-color: rgb(7, 213, 244);
+    border: 1px solid black;
+}
